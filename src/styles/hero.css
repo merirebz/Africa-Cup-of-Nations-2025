@@ -1,7 +1,7 @@
 .hero {
   text-align: center;
   padding: 120px 20px;
-  background: radial-gradient(circle, #0e3c52, #08141c);
+  background: radial-gradient(circle, #325f32, #08141c);
 }
 
 .hero h1 {
@@ -9,7 +9,7 @@
 }
 
 .hero h1 span {
-  color: #f7c600;
+  color: #f62d00;
 }
 
 .hero h3 {
@@ -31,7 +31,7 @@
 }
 
 .primary {
-  background: #1faa59;
+  background: #fd3b00;
   color: white;
 }
 

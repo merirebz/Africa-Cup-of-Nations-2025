@@ -17,4 +17,22 @@ export const groups = [
       { name: "Zimbabwe", pts: 1, gd: -1 },
     ],
   },
+  {
+    name: "Group B",
+    teams: [
+      { name: "Angola", pts: 1, gd: -1 },
+      { name: "Egypt", pts: 6, gd: 2 },
+      { name: "South Africa", pts: 3, gd: 0 },
+      { name: "Zimbabwe", pts: 1, gd: -1 },
+    ],
+  },
+  {
+    name: "Group B",
+    teams: [
+      { name: "Angola", pts: 1, gd: -1 },
+      { name: "Egypt", pts: 6, gd: 2 },
+      { name: "South Africa", pts: 3, gd: 0 },
+      { name: "Zimbabwe", pts: 1, gd: -1 },
+    ],
+  },
 ];
