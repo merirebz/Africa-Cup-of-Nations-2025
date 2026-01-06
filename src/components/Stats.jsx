@@ -12,11 +12,11 @@ export default function Stats() {
         <h2>6</h2>
         <p>Groups</p>
       </div>
-
+{/* 
       <div className="stat-card">
         <h2>52</h2>
         <p>Matches</p>
-      </div>
+      </div> */}
 
       <div className="stat-card">
         <h2>5</h2>
