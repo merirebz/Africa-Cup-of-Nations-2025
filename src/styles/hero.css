@@ -1,0 +1,42 @@
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+  background: radial-gradient(circle, #0e3c52, #08141c);
+}
+
+.hero h1 {
+  font-size: 90px;
+}
+
+.hero h1 span {
+  color: #f7c600;
+}
+
+.hero h3 {
+  margin-top: 10px;
+  letter-spacing: 4px;
+}
+
+.hero p {
+  margin: 20px 0;
+  opacity: 0.8;
+}
+
+.hero-buttons button {
+  margin: 10px;
+  padding: 14px 30px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.primary {
+  background: #1faa59;
+  color: white;
+}
+
+.secondary {
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+}
