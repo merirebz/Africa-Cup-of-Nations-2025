@@ -1,23 +1,3 @@
-// import { useEffect, useState } from "react";
-// import { getTeams } from "../services/api";
-// import GroupCard from "../components/GroupCard";
-
-// export default function Groups() {
-//   const [teams, setTeams] = useState([]);
-
-//   useEffect(() => {
-//     getTeams().then(data => setTeams(data.teams || []));
-//   }, []);
-
-//   return (
-//     <div className="groups">
-//       <GroupCard group="GROUP A" teams={teams.slice(0,4)} />
-//       <GroupCard group="GROUP B" teams={teams.slice(4,8)} />
-//       <GroupCard group="GROUP C" teams={teams.slice(8,12)} />
-//     </div>
-//   );
-// }
-
 
 import { useEffect, useState } from "react";
 import GroupCard from "../components/Groups";
