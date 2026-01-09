@@ -9,7 +9,7 @@ export default function Groups() {
   useEffect(() => {
     getTeams().then((data) => {
       if (data && data.teams) {
-        setTeams(data.teams.slice(0, 24)); // 24 teams
+        setTeams(data.teams.slice(0, 24)); 
       }
     });
   }, []);
