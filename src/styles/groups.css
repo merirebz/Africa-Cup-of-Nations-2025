@@ -1,19 +1,20 @@
+
 .groups {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 30px;
   padding: 60px;
 }
 
 .group-card {
   background: white;
-  color: rgb(7, 7, 7);
+  color: #070707;
   border-radius: 20px;
   padding: 20px;
 }
 
 .group-card h3 {
-  background:  rgb(24, 77, 43);
+  background: rgb(24, 77, 43);
   color: white;
   padding: 10px;
   border-radius: 10px;
@@ -22,6 +23,36 @@
 .team {
   display: flex;
   justify-content: space-between;
-  padding: 10px 0;
+  align-items: center;
+  padding: 12px 0;
   border-bottom: 1px solid #ddd;
+}
+
+.team-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.team-left img {
+  width: 28px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+.team-right {
+  display: flex;
+  gap: 15px;
+  font-weight: bold;
+}
+
+.gd {
+  min-width: 30px;
+  text-align: right;
+}
+
+.pts {
+  min-width: 20px;
+  text-align: right;
 }
