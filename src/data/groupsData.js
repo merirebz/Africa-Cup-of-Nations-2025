@@ -54,37 +54,37 @@ export const groups = [
   {
     name: "Group C",
     teams: [
-      { name: "Nigeria", pts: 1, gd: -1, flag: "/flags/nigeria.png" },
-      { name: "Tunisia", pts: 6, gd: 2, flag: "/flags/tunisia.png" },
-      { name: "Uganda", pts: 3, gd: 0, flag: "/flags/uganda.png" },
-      { name: "Tanzania", pts: 1, gd: -1, flag: "/flags/tanzania.png" },
+      { name: "Nigeria", pts: 1, gd: -1, flag: nig},
+      { name: "Tunisia", pts: 6, gd: 2, flag: tun },
+      { name: "Uganda", pts: 3, gd: 0, flag: ug},
+      { name: "Tanzania", pts: 1, gd: -1, flag: tan },
     ],
   },
   {
     name: "Group D",
     teams: [
-      { name: "Senegal", pts: 1, gd: -1, flag: "/flags/senegal.png" },
-      { name: "DR Congo", pts: 6, gd: 2, flag: "/flags/dr-congo.png" },
-      { name: "Benin", pts: 3, gd: 0, flag: "/flags/benin.png" },
-      { name: "Botswana", pts: 1, gd: -1, flag: "/flags/botswana.png" },
+      { name: "Senegal", pts: 1, gd: -1, flag: sen},
+      { name: "DR Congo", pts: 6, gd: 2, flag: congo },
+      { name: "Benin", pts: 3, gd: 0, flag: benin },
+      { name: "Botswana", pts: 1, gd: -1, flag: botswana },
     ],
   },
   {
     name: "Group E",
     teams: [
-      { name: "Algeria", pts: 1, gd: -1, flag: "/flags/algeria.png" },
-      { name: "Burkina Faso", pts: 6, gd: 2, flag: "/flags/burkina-faso.png" },
-      { name: "Sudan", pts: 3, gd: 0, flag: "/flags/sudan.png" },
-      { name: "Equatorial Guinea", pts: 1, gd: -1, flag: "/flags/equatorial-guinea.png" },
+      { name: "Algeria", pts: 1, gd: -1, flag: alg },
+      { name: "Burkina Faso", pts: 6, gd: 2, flag: burkina },
+      { name: "Sudan", pts: 3, gd: 0, flag: sudan },
+      { name: "Equatorial Guinea", pts: 1, gd: -1, flag: equa},
     ],
   },
   {
     name: "Group F",
     teams: [
-      { name: "Ivory Coast", pts: 1, gd: -1, flag: "/flags/ivory-coast.png" },
-      { name: "Cameroon", pts: 6, gd: 2, flag: "/flags/cameroon.png" },
-      { name: "Mozambique", pts: 3, gd: 0, flag: "/flags/mozambique.png" },
-      { name: "Gabon", pts: 1, gd: -1, flag: "/flags/gabon.png" },
+      { name: "Ivory Coast", pts: 1, gd: -1, flag: Ivory },
+      { name: "Cameroon", pts: 6, gd: 2, flag: Cameroon },
+      { name: "Mozambique", pts: 3, gd: 0, flag: Mozambique },
+      { name: "Gabon", pts: 1, gd: -1, flag: Gabon },
     ],
   },
 ];
