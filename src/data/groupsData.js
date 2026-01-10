@@ -8,6 +8,17 @@ import Angola from "../components/flags/angola.png";
 import Egypt from "../components/flags/Egypt.png";
 import South from "../components/flags/South Africa.png";
 import Zimbabwe from "../components/flags/Zimbabwe.png";
+
+import nig from "../components/flags/nig.png";
+import tun from "../components/flags/tun.png";
+import ug from "../components/flags/ug.png";
+import tan from "../components/flags/tan.png";
+
+import sen from "../components/flags/sen.png";
+import congo from "../components/flags/Congo.png";
+import benin from "../components/flags/benin.png";
+import botswana from "../components/flags/Botswana.png";
+
 export const groups = [
   {
     name: "Group A",
