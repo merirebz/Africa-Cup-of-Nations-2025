@@ -19,6 +19,19 @@ import congo from "../components/flags/Congo.png";
 import benin from "../components/flags/benin.png";
 import botswana from "../components/flags/Botswana.png";
 
+import alg from "../components/flags/alg.png";
+import burkina from "../components/flags/Burkina.png";
+import sudan from "../components/flags/Sudan.png";
+import equa from "../components/flags/equa.png";
+
+
+
+import Ivory from "../components/flags/ivory.png";
+import Cameroon from "../components/flags/Cameroon.png";
+import Mozambique from "../components/flags/Mozambiqu.png";
+import Gabon from "../components/flags/Gabon.png";
+
+
 export const groups = [
   {
     name: "Group A",
